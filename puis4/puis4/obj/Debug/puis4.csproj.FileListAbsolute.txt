@@ -1,0 +1,6 @@
+E:\Puissance 4\puis4\puis4\bin\Debug\puis4.exe.config
+E:\Puissance 4\puis4\puis4\bin\Debug\puis4.exe
+E:\Puissance 4\puis4\puis4\bin\Debug\puis4.pdb
+E:\Puissance 4\puis4\puis4\obj\Debug\puis4.csproj.CoreCompileInputs.cache
+E:\Puissance 4\puis4\puis4\obj\Debug\puis4.exe
+E:\Puissance 4\puis4\puis4\obj\Debug\puis4.pdb
