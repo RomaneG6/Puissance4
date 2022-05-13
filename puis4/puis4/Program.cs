@@ -12,7 +12,7 @@ namespace puis4
         {
             int[,] matP = new int[6, 7];
             int[,] matP2 = new int[6, 7];
-
+			//commentaire
             LectureTab(ref matP);
             Console.ReadLine();
             JeuxTab(ref matP);
